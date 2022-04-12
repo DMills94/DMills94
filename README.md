@@ -2,8 +2,7 @@
 
 ---
 
-I'm David, a frontend developer working for 🐙 Octopus Investments
-
+I'm David, a frontend developer working for 🦘 Deliveroo
 On my GitHub you'll find repositories relating to things I love - web dev 🕸️and gaming 🎮
 
 Feel free to come interact with me!
